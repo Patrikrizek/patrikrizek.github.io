@@ -98,6 +98,16 @@ const projects = [
         description: "This is another Codepen Challenge. The topic for this week was 'Playing Cards'. I have decided to create this simple design of flipping play cards. External SVG is used for card symbols.",
         technology: "CSS, HTML",
         link: "https://codepen.io/patrikrizek/pen/dymRKvp"
+    },
+    {   
+        name: "Portfolio",
+        img: "/media/web-portfolio.jpg",
+        imgAlt: "Website Patrik Krizek Portfolio",
+        badge: "#website",
+        label: "website",
+        description: "Personal Portfolio with selected projects and challenges.",
+        technology: "JS, CSS, HTML",
+        link: "https://patrikrizek.github.io/"
     }
 ];
 
