@@ -321,3 +321,8 @@ header .mouse-wheel {
 #accept:hover {
     box-shadow: 0 0 0;
 }
+
+/* 404 Page not found */
+#page-not-found {
+    padding: 200px 0;
+}
