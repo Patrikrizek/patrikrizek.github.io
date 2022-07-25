@@ -101,7 +101,7 @@ const projects = [
     },
     {   
         name: "Portfolio",
-        img: "/media/web-portfolio.jpg",
+        img: "/media/web-portfolio.JPG",
         imgAlt: "Website Patrik Krizek Portfolio",
         badge: "#website",
         label: "website",
