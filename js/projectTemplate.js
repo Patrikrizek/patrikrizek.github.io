@@ -122,7 +122,7 @@ function projectTemplate(project) {
             </picture>
             <div class="card-body">
                 <h5 class="card-title">${project.name}</h5>
-                <span class="badge web-clr mb-2">#website</span>
+                <span class="badge web-clr mb-2">${project.badge}</span>
                 <p class="card-text">${project.description}</p>
                 <p class="text-secondary font-weight-lighter"><i>${project.technology}</i></p>
                 <a href="${project.link}" target="_blank" class="card-link">Find more</a>
