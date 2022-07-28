@@ -99,6 +99,16 @@ const projects = [
         technology: "CSS, HTML",
         link: "https://codepen.io/patrikrizek/pen/dymRKvp"
     },
+    {
+        name: "Marbles Art",
+        img: "/media/codepen-marbles-art.jpg",
+        imgAlt: "Codepen Challenge Marbles",
+        badge: "#CodePenChallenge",
+        label: "codepen",
+        description: "Another of the Codepen challenges. I wanted to create something artier this time. My creation was inspired by @marcosmasd.",
+        technology: "CSS, HTML",
+        link: "https://codepen.io/patrikrizek/pen/zYWPKjE"
+    },
     {   
         name: "Portfolio",
         img: "/media/web-portfolio.JPG",
