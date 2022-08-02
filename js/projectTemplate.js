@@ -109,16 +109,27 @@ const projects = [
         technology: "CSS, HTML",
         link: "https://codepen.io/patrikrizek/pen/zYWPKjE"
     },
-    {   
-        name: "Portfolio",
-        img: "/media/web-portfolio.JPG",
-        imgAlt: "Website Patrik Krizek Portfolio",
-        badge: "#website",
-        label: "website",
-        description: "Personal Portfolio with selected projects and challenges.",
-        technology: "JS, CSS, HTML",
-        link: "https://patrikrizek.github.io/"
+    {
+        name: "Looong Teeeext Challenge",
+        img: "/media/codepen-long-text.jpg",
+        imgAlt: "Codepen Looong Teeeext Challenge",
+        badge: "#CodePenChallenge",
+        label: "codepen",
+        description: "This is the 1st of August 2022 tricky coding puzzles that you might encounter in a job interview or on a JavaScript proficiency test. In the begging, I was thinking to use an array, split and for of loop to achieve the result. But then I realised this can be done with a way smoother approach. Text, replace and arrow function with repeat. I add some form validation too.",
+        technology: "JavaScript, CSS, HTML",
+        link: "https://codepen.io/patrikrizek/pen/abYqENv"
     }
+    // ,
+    // {   
+    //     name: "Portfolio",
+    //     img: "/media/web-portfolio.JPG",
+    //     imgAlt: "Website Patrik Krizek Portfolio",
+    //     badge: "#website",
+    //     label: "website",
+    //     description: "Personal Portfolio with selected projects and challenges.",
+    //     technology: "JS, CSS, HTML",
+    //     link: "https://patrikrizek.github.io/"
+    // }
 ];
 
 document.getElementById('project-list').innerHTML = `${projects.map(projectTemplate).join('')}`;
