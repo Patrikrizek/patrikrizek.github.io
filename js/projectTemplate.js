@@ -101,7 +101,7 @@ const projects = [
     },
     {
         name: "Marbles Art",
-        img: "/media/codepen-marbles-art.jpg",
+        img: "/media/codepen-marbles-art.JPG",
         imgAlt: "Codepen Challenge Marbles",
         badge: "#CodePenChallenge",
         label: "codepen",
@@ -111,7 +111,7 @@ const projects = [
     },
     {
         name: "Looong Teeeext Challenge",
-        img: "/media/codepen-long-text.jpg",
+        img: "/media/codepen-long-text.JPG",
         imgAlt: "Codepen Looong Teeeext Challenge",
         badge: "#CodePenChallenge",
         label: "codepen",
