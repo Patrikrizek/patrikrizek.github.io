@@ -1,4 +1,14 @@
 const projects = [
+    {   
+        name: "Taste of Monarchy",
+        img: "/media/web-taste-of-monarchy.JPG",
+        imgAlt: "Website Taste of Monarchy",
+        badge: "#online-shop",
+        label: "online-shop",
+        description: "Baking & Delivery Service. Our journey started 2019 in London but we are holding recipes and techniques proven by generations. We love baking and we want to bring our products closer to customers. We operate in South London, namely Surrey Quays, Bermondsey, Canada Water, Rotherhithe and Brockley.",
+        technology: "JS, CSS, HTML, Bootstrap, Reflow",
+        link: "https://tasteofmonarchy.com/"
+    },
     {
         name: "Fly Personal Trainer",
         img: "/media/web-flypersonaltrainer-01.JPG",
@@ -48,6 +58,16 @@ const projects = [
         description: "Wants to make something original and authentic that makes you feel special and valued and helps you to express yourself without any fear or shame, this is why their artworks are handmade, which means that every piece they design is unique, just like you.",
         technology: "JavaScript, CSS, HTML, PHP, MySQL",
         link: "https://www.duoadverso.com/"
+    },
+    {   
+        name: "Portfolio",
+        img: "/media/web-portfolio.JPG",
+        imgAlt: "Website Patrik Krizek Portfolio",
+        badge: "#website",
+        label: "website",
+        description: "Personal Portfolio with selected projects and challenges.",
+        technology: "JS, CSS, HTML, Bootstrap",
+        link: "https://patrikrizek.github.io/"
     },
     {
         name: "NulBar",
@@ -128,16 +148,6 @@ const projects = [
         description: "In this challenge, we were asked 'Write a function that determines if all the characters in a given string are unique.' This can be done with multiple approaches. For example, looping each element through an array. I have chosen to use the Set() function and measure the length with the original String.",
         technology: "JavaScript, CSS, HTML",
         link: "https://codepen.io/patrikrizek/pen/gOedrEe"
-    },
-    {   
-        name: "Portfolio",
-        img: "/media/web-portfolio.JPG",
-        imgAlt: "Website Patrik Krizek Portfolio",
-        badge: "#website",
-        label: "website",
-        description: "Personal Portfolio with selected projects and challenges.",
-        technology: "JS, CSS, HTML",
-        link: "https://patrikrizek.github.io/"
     }
 ];
 
