@@ -128,18 +128,17 @@ const projects = [
         description: "In this challenge, we were asked 'Write a function that determines if all the characters in a given string are unique.' This can be done with multiple approaches. For example, looping each element through an array. I have chosen to use the Set() function and measure the length with the original String.",
         technology: "JavaScript, CSS, HTML",
         link: "https://codepen.io/patrikrizek/pen/gOedrEe"
+    },
+    {   
+        name: "Portfolio",
+        img: "/media/web-portfolio.JPG",
+        imgAlt: "Website Patrik Krizek Portfolio",
+        badge: "#website",
+        label: "website",
+        description: "Personal Portfolio with selected projects and challenges.",
+        technology: "JS, CSS, HTML",
+        link: "https://patrikrizek.github.io/"
     }
-    // ,
-    // {   
-    //     name: "Portfolio",
-    //     img: "/media/web-portfolio.JPG",
-    //     imgAlt: "Website Patrik Krizek Portfolio",
-    //     badge: "#website",
-    //     label: "website",
-    //     description: "Personal Portfolio with selected projects and challenges.",
-    //     technology: "JS, CSS, HTML",
-    //     link: "https://patrikrizek.github.io/"
-    // }
 ];
 
 document.getElementById('project-list').innerHTML = `${projects.map(projectTemplate).join('')}`;
