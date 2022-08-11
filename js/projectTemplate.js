@@ -118,6 +118,16 @@ const projects = [
         description: "This is the 1st of August 2022 tricky coding puzzles that you might encounter in a job interview or on a JavaScript proficiency test. In the begging, I was thinking to use an array, split and for of loop to achieve the result. But then I realised this can be done with a way smoother approach. Text, replace and arrow function with repeat. I add some form validation too.",
         technology: "JavaScript, CSS, HTML",
         link: "https://codepen.io/patrikrizek/pen/abYqENv"
+    },
+    {
+        name: "All Unique Characters Challenge",
+        img: "/media/codepen-all-unique-characters.JPG",
+        imgAlt: "Codepen All Unique Characters Challenge",
+        badge: "#CodePenChallenge",
+        label: "codepen",
+        description: "In this challenge, we were asked 'Write a function that determines if all the characters in a given string are unique.' This can be done with multiple approaches. For example, looping each element through an array. I have chosen to use the Set() function and measure the length with the original String.",
+        technology: "JavaScript, CSS, HTML",
+        link: "https://codepen.io/patrikrizek/pen/gOedrEe"
     }
     // ,
     // {   
