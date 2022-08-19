@@ -148,6 +148,16 @@ const projects = [
         description: "In this challenge, we were asked 'Write a function that determines if all the characters in a given string are unique.' This can be done with multiple approaches. For example, looping each element through an array. I have chosen to use the Set() function and measure the length with the original String.",
         technology: "JavaScript, CSS, HTML",
         link: "https://codepen.io/patrikrizek/pen/gOedrEe"
+    },
+    {
+        name: "Equal with Deletions Challenge",
+        img: "/media/codepen-equal-with-deletions.JPG",
+        imgAlt: "Codepen Equal with Deletions Challenge",
+        badge: "#CodePenChallenge",
+        label: "codepen",
+        description: "In this challenge, we delete characters in both directions by using # % symbols and compare them afterwards. This can be achievable in many ways. By using an  Array and loop, another approach is editing String by charAt() and replace() combining with loop, or you can loop regex through all characters in the String.",
+        technology: "JavaScript, CSS, HTML",
+        link: "https://codepen.io/patrikrizek/pen/mdxaaqj"
     }
 ];
 
