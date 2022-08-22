@@ -100,6 +100,16 @@ const projects = [
         link: "https://github.com/Patrikrizek/maionacoding"
     },
     {
+        name: "Simple text editor",
+        img: "/media/github-simple-text-editor.JPG",
+        imgAlt: "GitHub Simple text editor",
+        badge: "#github",
+        label: "github",
+        description: "I created a simple text editor, that can handle basic text styling and editing.",
+        technology: "JavaScript, CSS, HTML",
+        link: "https://jade-donut-b44175.netlify.app/"
+    },
+    {
         name: "Magic 8 ball",
         img: "/media/codepen-magic-8-ball.JPG",
         imgAlt: "Codepen Challenge Magic 8 ball",
