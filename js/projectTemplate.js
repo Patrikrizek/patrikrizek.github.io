@@ -27,7 +27,7 @@ const projects = [
         label: "website",
         description: "Music Slot Online is an online music school that allows you to learn to play the piano from the comfort of your home - from your laptop, iPad or phone. We have created Music Slot Online to make music lessons accessible to anyone in the world, anywhere. It doesn't matter where you live, you can have lessons with the top teachers in the world!",
         technology: "JavaScript, CSS, HTML",
-        link: "http://www.musicslotonline.com/"
+        link: "https://sites.google.com/musicslotonline.com/music-slot-online/"
     },
     {
         name: "Painter Blanka Sklibova",
