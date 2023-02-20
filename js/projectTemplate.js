@@ -1,5 +1,5 @@
 const projects = [
-    {   
+    {
         name: "Taste of Monarchy",
         img: "/media/web-taste-of-monarchy.JPG",
         imgAlt: "Website Taste of Monarchy",
@@ -29,16 +29,16 @@ const projects = [
         technology: "JavaScript, CSS, HTML",
         link: "https://sites.google.com/musicslotonline.com/music-slot-online/"
     },
-    {
-        name: "Painter Blanka Sklibova",
-        img: "/media/web-blankasklibova-painter-01.JPG",
-        imgAlt: "Website Painter Blanka Sklibova",
-        badge: "#website",
-        label: "website",
-        description: "Do you wish to give a gift that will bring joy, will last throughout generations and the value of the painting will rise with time? Let me paint a portrait of you or still live according to your wishes. Whether you want a portrait or still life, or another theme you choose, do not hesitate to contact me or to arrange an appointment in my studio.",
-        technology: "JavaScript, CSS, HTML, PHP, MySQL",
-        link: "https://blankasklibova.cz/en/painter-blanka-sklibova/"
-    },
+    // {
+    //     name: "Painter Blanka Sklibova",
+    //     img: "/media/web-blankasklibova-painter-01.JPG",
+    //     imgAlt: "Website Painter Blanka Sklibova",
+    //     badge: "#website",
+    //     label: "website",
+    //     description: "Do you wish to give a gift that will bring joy, will last throughout generations and the value of the painting will rise with time? Let me paint a portrait of you or still live according to your wishes. Whether you want a portrait or still life, or another theme you choose, do not hesitate to contact me or to arrange an appointment in my studio.",
+    //     technology: "JavaScript, CSS, HTML, PHP, MySQL",
+    //     link: "https://blankasklibova.cz/en/painter-blanka-sklibova/"
+    // },
     {
         name: "all in equilibrium theater Vienna",
         img: "/media/web-all-in-equilibrium-01.JPG",
@@ -59,7 +59,7 @@ const projects = [
         technology: "JavaScript, CSS, HTML, PHP, MySQL",
         link: "https://www.duoadverso.com/"
     },
-    {   
+    {
         name: "Portfolio",
         img: "/media/web-portfolio.JPG",
         imgAlt: "Website Patrik Krizek Portfolio",
