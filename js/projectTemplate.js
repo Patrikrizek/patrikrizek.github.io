@@ -7,7 +7,7 @@ const projects = [
         label: "react-app",
         description: "This is a mini project of a simple expense tracker. You can add or delete your expenses, filter them and see the total amount you spent.",
         technology: "React 18, TS, Bootstrap, zod, react-hook-form",
-        link: "https://64886dc16e114e00beedc7e6--lustrous-cucurucho-9cdac0.netlify.app/"
+        link: "https://lustrous-cucurucho-9cdac0.netlify.app/"
     },
     {
         name: "Taste of Monarchy",
