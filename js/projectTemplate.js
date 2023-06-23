@@ -5,7 +5,7 @@ const projects = [
         imgAlt: "React App Game Hub",
         badge: "#react-app",
         label: "react-app",
-        description: "Game hub using API. You can filter tha games by genre and platforms, search for a specific game. Also switch between dark and light mode.",
+        description: "Game Hub using API. You can filter games' cards by genre and platforms or search for a specific game. Also switch between dark and light mode.",
         technology: "React 18, TS, Chakra, API",
         link: "https://gleaming-pika-c21c9b.netlify.app/"
     },
