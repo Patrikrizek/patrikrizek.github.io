@@ -20,6 +20,16 @@ const projects = [
         link: "https://lustrous-cucurucho-9cdac0.netlify.app/"
     },
     {
+        name: "MaionaCoding - Web Portfolio Template",
+        img: "/media/react-app-web-portfolio-template.JPG",
+        imgAlt: "React App Web Portfolio Template",
+        badge: "#react-app",
+        label: "react-app",
+        description: "This template was created for MaionaCoding students. We chose the content and in sessions we introduced the concepts of coding in React. With this approach students could test their knowledge and practice what they have learned in previous sessions.",
+        technology: "React, Bootstrap, web-vitals, cors, express, nodemailer",
+        link: "https://gregarious-brioche-f246bd.netlify.app/"
+    },
+    {
         name: "Taste of Monarchy",
         img: "/media/web-taste-of-monarchy.JPG",
         imgAlt: "Website Taste of Monarchy",
@@ -110,14 +120,54 @@ const projects = [
         link: "https://play.google.com/store/apps/details?id=com.motinno.singletracker&gl=US"
     },
     {
-        name: "Maiona e-learning platform",
+        name: "MaionaCoding e-learning platform",
         img: "/media/web-maiona-web-01.JPG",
-        imgAlt: "Maiona e-learning platform",
+        imgAlt: "MaionaCoding e-learning platform",
         badge: "#github",
         label: "github",
-        description: "E-learning platform for Maiona Coding Ltd based in London.",
+        description: "E-learning platform for MaionaCoding Ltd based in London.",
         technology: "JavaScript, CSS, HTML",
         link: "https://github.com/Patrikrizek/maionacoding"
+    },
+    {
+        name: "MaionaCoding - Table generator & API",
+        img: "/media/react-app-table-api.JPG",
+        imgAlt: "MaionaCoding Table generator and API",
+        badge: "#react-app",
+        label: "react-app",
+        description: "A project created for MaionaCoding. During the first sessions focused on React development we presented a concept on how to create dynamically generated rows of a table. In this part of the session we introduced using API and pulled data from an external source.",
+        technology: "React, Bootstrap, API",
+        link: "https://delicate-fenglisu-9d4c51.netlify.app/"
+    },
+    {
+        name: "MaionaCoding - Posts Filtering",
+        img: "/media/react-app-posts-filtering.JPG",
+        imgAlt: "MaionaCoding React Posts Filtering",
+        badge: "#react-app",
+        label: "react-app",
+        description: "One of the mini projects for MaionaCoding. We presented to students some functionalities in React and small examples on how to apply these. For instance to create a new component using JS and map function and filter trough them using text or keywords.",
+        technology: "React, Bootstrap",
+        link: "https://musical-gingersnap-bc4bf1.netlify.app/posts"
+    },
+    {
+        name: "MaionaCoding - JS Form & Validation",
+        img: "/media/github-js-form-validation.JPG",
+        imgAlt: "MaionaCoding JS form and Validation",
+        badge: "#github",
+        label: "github",
+        description: "This little project was developed for MaionaCoding. We introduced the concept of the basic form validation using JS with Regex. The main aim here was to present the logic in JS, CSS and design was secondary.",
+        technology: "JS, Regex, HTML, CSS",
+        link: "https://classy-pony-7aac34.netlify.app/"
+    },
+    {
+        name: "MaionaCoding - JS List of Students & To do list",
+        img: "/media/github-js-list-of-students.JPG",
+        imgAlt: "MaionaCoding JS List of Students and To do list",
+        badge: "#github",
+        label: "github",
+        description: "Another mini project that was developed for MaionaCoding. We described how to use JS to create a small form that will generate new parts of the website after its submission. Also CSS - Bootstrap is dynamically changed for some HTML elements. We used the list of students and To do list for a demonstration.",
+        technology: "JS, Bootstrap, HTML, CSS",
+        link: "https://capable-tiramisu-9d43dd.netlify.app/lesson-01/lesson-01.html"
     },
     {
         name: "Simple text editor",
