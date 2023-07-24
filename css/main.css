@@ -16,6 +16,14 @@
     --circle-hdr-sdw: 2px 2px 4px lightgray;
 }
 
+/* Globals */
+header h1 {
+    font-size: 3em;
+}
+header h4 {
+    font-size: 2em;
+}
+
 /* Page */
 html,
 body {
