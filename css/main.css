@@ -334,3 +334,8 @@ header .mouse-wheel {
 #page-not-found {
     padding: 200px 0;
 }
+
+/* Shared */
+.space-top {
+    margin-top: 100px;
+}
