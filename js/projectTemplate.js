@@ -40,6 +40,16 @@ const projects = [
         link: "https://tasteofmonarchy.com/"
     },
     {
+        name: "MaionaCoding Company Website",
+        img: "/media/web-maionacoding.JPG",
+        imgAlt: "Website MaionaCoding",
+        badge: "#website",
+        label: "website",
+        description: "Coding corporate training services and coding sessions for teams and individuals.",
+        technology: "JavaScript, CSS, HTML, PHP, MySQL",
+        link: "https://maiona.co.uk/"
+    },
+    {
         name: "Fly Personal Trainer",
         img: "/media/web-flypersonaltrainer-01.JPG",
         imgAlt: "Website Fly Personal Trainer",
